@@ -1,4 +1,4 @@
-# AI Social Media Post Creator 📱
+# Social Media Post Creator Agent 📱
 Helps businesses and marketers create platform-optimized social media posts without hiring a full-time content team.
 
 ## What it does
